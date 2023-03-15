@@ -5,5 +5,5 @@
 และนี่ข้อมูลบางส่วนที่เอามาซึ่งข้อมูลของเราจะมีห้าพันกว่าข้อมูล
 ![exel1](https://user-images.githubusercontent.com/127780181/225209524-18e722b8-12f4-485e-88fe-f42c41689049.png)
 
-## เราเอาข้อมมูลจาก excel มาดึงใส่ใน excel reader
+##เราเอาข้อมมูลจาก excel มาดึงใส่ใน excel reader
 ![exel](https://user-images.githubusercontent.com/127780181/225209894-be117da4-4c08-4500-b2ca-d55373923680.png)
