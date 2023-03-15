@@ -17,3 +17,8 @@
 
 ## ราคาเริ่มต้ม 33.29 และสูงถึงที่ 6478.23 และค่าเฉลี่ยที่1764.33
 ![44](https://user-images.githubusercontent.com/127780181/225213602-2ee74694-8334-45af-b263-1b02b057a5c0.png)
+
+## นี่เป็นยอดขายสินค้าแต่ละปี
+![55](https://user-images.githubusercontent.com/127780181/225213701-6b963977-c3ec-41cf-b934-e53f7c2bbfcb.png)
+![66](https://user-images.githubusercontent.com/127780181/225214134-e43b8aa5-17f9-4f00-9549-a67896283fc6.png)
+
